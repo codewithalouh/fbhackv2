@@ -1,7 +1,7 @@
 
 # FB HACK TOOL v2
 
-a python program to bruteforce fb login
+a bash script to bruteforce fb login
 
 # how to install?
 
